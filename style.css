@@ -50,7 +50,7 @@ nav ul li a {
 }
 
 nav ul  :hover{
-  background-color: rgb(206, 112, 190);
+  background-color: rgb(248, 154, 175);
   font-weight: bold;
   transform: translateY(-0.3rem);
 }
