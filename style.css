@@ -48,6 +48,12 @@ nav ul li a {
   text-align: center;
   text-decoration: none;
 }
+
+nav ul  :hover{
+  background-color: rgb(206, 112, 190);
+  font-weight: bold;
+  transform: translateY(-0.3rem);
+}
 nav {
   width: 90vw;
   height: 6vh;
